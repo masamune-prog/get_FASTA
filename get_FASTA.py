@@ -1,4 +1,4 @@
-#Authot: Josh Rosen
+#Author: Josh Rosen
 #This script recieves a FASTA file and returns the corresponding FASTA names and DNA
 #sequences into a dictionary named rosDict
 
