@@ -4,8 +4,7 @@
 
 def main():
     #Opens FASTA file
-    workfile = input("Enter FASTA file name: ")
-    f = open(workfile, 'r')
+    f = open('TYPE NAME OF FILE', 'r')
     
     #Creates dictionary
     rosDict={}
